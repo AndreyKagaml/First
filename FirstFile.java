@@ -4,5 +4,9 @@ class Hello{
 			System.out.println(i*3);
 		}
 		System.out.println("Hello world!");
+		List<Integer> list = new ArrayList<>();
+		list.add(8);
+		list.add(12);
+		
 	}
 }
