@@ -7,6 +7,8 @@ class Hello{
 		list.add(12);
 		list.add(524);
 		
+		Person person1 = new Person(1, "Andrey");
+		
 	}
 }
 
