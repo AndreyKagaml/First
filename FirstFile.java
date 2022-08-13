@@ -8,7 +8,7 @@ class Hello{
 		list.add(524);
 		
 		Person person1 = new Person(1, "Andrey");
-		
+		Person person1 = new Person(3, "Sergey");
 	}
 }
 
