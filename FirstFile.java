@@ -15,12 +15,18 @@ class Hello{
 		 map.put(2,"List");
 		 map.put(3, "Queue");
 		 
+		 System.out.println(person1.getId);
+		 
 	}
 }
 
 class Person{
 	private String name;
 	private int id;
+	
+	public int getId(){
+		return this.id;
+	}
 	
 	public Person(int id, String name){
 		this.id = id;
