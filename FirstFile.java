@@ -12,6 +12,8 @@ class Hello{
 		 
 		 Map <Integer, String> map = new HashMap<>();
 		 map.put(1, "Stack");
+		 map.put(2,"List");
+		 map.put(3, "Queue");
 		 
 	}
 }
