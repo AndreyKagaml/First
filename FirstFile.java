@@ -11,6 +11,7 @@ class Hello{
 		Person person1 = new Person(3, "Sergey");
 		 
 		 Map <Integer, String> map = new HashMap<>();
+		 map.put(1, "Stack");
 		 
 	}
 }
