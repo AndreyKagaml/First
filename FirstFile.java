@@ -1,6 +1,8 @@
 class Hello{
 	public static void main (String [] args){
-		System.out.println();
+
+		Scanner in = new Scanner(System.in);
+
 		System.out.println("Hello world!");
 		List <Integer> list = ArrayList<>();
 		list.add(10);
