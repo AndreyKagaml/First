@@ -9,6 +9,7 @@ class Hello{
 		
 		Person person1 = new Person(1, "Andrey");
 		Person person1 = new Person(3, "Sergey");
+		System.out.println("123");
 		 
 		 Map <Integer, String> map = new HashMap<>();
 		 map.put(1, "Stack");
