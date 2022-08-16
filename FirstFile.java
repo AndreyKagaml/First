@@ -8,15 +8,16 @@ class Hello{
 		list.add(524);
 		
 		Person person1 = new Person(1, "Andrey");
-		Person person1 = new Person(3, "Sergey");
-		System.out.println("123");
+		Person person3 = new Person(3, "Sergey");
+		Person person2 = new person(2, "Ihor");
+
 		 
 		 Map <Integer, String> map = new HashMap<>();
 		 map.put(1, "Stack");
 		 map.put(2,"List");
 		 map.put(3, "Queue");
 		 
-		 System.out.println(person1.getId);
+		 System.out.println(person1.getId());
 		 
 	}
 }
