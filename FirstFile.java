@@ -10,6 +10,7 @@ class Hello{
 		list.add(524);
 		
 		Person person1 = new Person(1, "Andrey");
+		Person person2 = new Person(45, "Sergey");
 		
 	}
 }
