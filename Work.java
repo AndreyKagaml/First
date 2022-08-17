@@ -3,7 +3,11 @@ private int id;
 private String description;
 
 public int getId(){
-	return this.id;
+	return id;
+}
+
+public String getDescription(){
+	return description;
 }
 
 public Work(int id, String description){
