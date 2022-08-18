@@ -25,9 +25,10 @@ class Hello{
 class Person{
 	private String name;
 	private int id;
+	private String surname;
 	
 	public int getId(){
-		return this.id;
+		return id;
 	}
 	
 	public Person(int id, String name){
