@@ -16,6 +16,7 @@ class Hello{
 		 map.put(1, "Stack");
 		 map.put(2,"List");
 		 map.put(3, "Queue");
+		 map.put(4, "Map");
 		 
 		 System.out.println(person1.getId());
 		 
