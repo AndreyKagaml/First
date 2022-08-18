@@ -3,7 +3,7 @@ private int id;
 private String description;
 
 public int getId(){
-	return this.id;
+	return id;
 }
 
 public Work(int id, String description){
